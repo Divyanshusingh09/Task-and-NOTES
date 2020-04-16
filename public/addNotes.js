@@ -61,3 +61,4 @@ async function addNewNoteToJson(note, taskId) {
         body: JSON.stringify({ note })
 
     })
+}
