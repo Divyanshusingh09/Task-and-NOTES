@@ -1,3 +1,2 @@
 # my portfolio
-This is my portfolio
-this is grrat
+This is Task and Notes Manager
